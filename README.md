@@ -4,7 +4,7 @@ This repository contains the source code, datasets, and documentation for
 Dan Barshis' Practical Computing for Biologists course (Biology 701/801) at Old Dominion University, as 
 taught in the Spring of 2024.
 
-See the [syllabus](https://bitbucket.org/dbarshis/24sp_pcfb/src/master/syllabus/Biol701-801_PCB_Spring_2024_Barshis.pdf) 
+See the [syllabus](https://bitbucket.org/dbarshis/24sp_pcfb/src/main/syllabus/Biol701-801_PCB_Spring_2024_Barshis.pdf) 
 for additional information.
 
 The book for the class is:
@@ -33,13 +33,15 @@ to work with data on your laptop.
 
 - [BBedit](https://www.barebones.com/products/bbedit/)
 
+- Scroll down and follow instructions to install [Git for MacOS] (https://carpentries.github.io/workshop-template/), and [Python for MacOS](https://carpentries.github.io/workshop-template/)
+
 ### For Microsoft Windows:
 
 - [Notepad++](https://notepad-plus-plus.org/)
 
-- Scroll down and follow instructions to install [TheBashShell for windows](https://carpentries.github.io/workshop-template/) and [Python](https://carpentries.github.io/workshop-template/)
+- Scroll down and follow instructions to install [TheBashShell for windows](https://carpentries.github.io/workshop-template/), [Git](https://carpentries.github.io/workshop-template/), and [Python](https://carpentries.github.io/workshop-template/)
 
-##External links
+## External links
 
 [software-carpentry](http://software-carpentry.org) has some good tutorials and resources
 though they are geared more towards two day intensive workshops
