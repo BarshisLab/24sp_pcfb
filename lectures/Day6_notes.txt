@@ -1,0 +1,19 @@
+Day6
+-a review
+	-first line of a python script
+	-two ways to input a string variable
+	-two ways to convert a string to a list
+	-two ways to sort a list
+	-command to return the 'ODU' from SomeList = ['A','PCFB',17,'ODU','G']
+	-print ThisNumber = 4.598 as a 2 decimal floating point
+	-command to list all the fastq files in a directory in long format
+	-command to make NewScript.py executable for the user
+	-command to add /mnt/c/Users/Spencer/Documents/scripts folder to path and what file to modify
+	-write down 5 commands in bash
+-HW 7,8 review
+-Hackathon Groups/hackathon overview (3 groups)
+-Reading and Writing files
+	-Intro to chapter/task
+	-Lecture slides
+		-problem solving approach
+-Group working

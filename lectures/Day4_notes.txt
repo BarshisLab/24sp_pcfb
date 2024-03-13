@@ -1,0 +1,17 @@
+Day4
+-HW 4
+-Scripting in the Shell
+	-The search path
+	-set
+	-bash_profile editing
+		-setting a new path
+		-noclobber
+	-writing a shell script
+		-#!
+		-chmod-permissions issues
+		-Aliases
+			-directory for class
+	-work through "generating scripts automatically"
+-break
+-HW 5,6
+-Lecture5

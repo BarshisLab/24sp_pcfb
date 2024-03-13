@@ -1,0 +1,39 @@
+Day2:
+-HW questions
+-RegularExpressionPart2
+	-Custom Wildcards
+	-Negations
+		-([^\t]+)\t
+	-Boundaries
+		-^ and $
+	-Precision
+		-+ vs * (zero or more)
+		-.*
+		-?
+		-{}
+	-Putting it all together
+	-fail wisely
+-RegEx2 Lecture slides
+-HW2
+-Break
+-BashShellInstallation
+-Shell Lecture slides
+-TheShell
+	-Caps, spelling, punctuation counts
+	- ~
+	-mkdir rmdir
+	-cp
+	-mv
+	-Shortcuts (up down tab)
+	-Arguments
+		-e.g., space in ls ~/
+		-ls -a
+		-ls -l
+	-less (vs more)
+	-man (man uses less)
+	-man -k
+	-wildcards
+		-be careful, use ls first
+	-exit
+		-especially important for ssh
+	

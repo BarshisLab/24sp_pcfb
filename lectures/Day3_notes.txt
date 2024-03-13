@@ -1,0 +1,12 @@
+Day3
+-git pull
+-HW 2
+-HW 3
+-Navigate to your pcfb/sandbox folder
+-Handling text in the shell
+	-How did we view a text file on Monday?
+		-less vs. nano
+-work through Ch. 5 in small groups
+	-note: http://files.rcsb.org/view/1ema.pdb
+	-instead of airport example use example in 2022_shellscripts.sh
+-HW4 due wednesday

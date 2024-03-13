@@ -1,0 +1,35 @@
+Day1:
+-Intro:
+	-syllabus
+	-Course format
+	-Pre-Class questionnaire review
+	-Download/install programs
+		-notepad ++
+		-Bbedit
+#		-JEdit
+	-Bitbucket-git
+-TextFiles
+	-Binary vs. text
+	-pdf or jpg example
+	-Important features
+		-Character-delimited (tab, csv) w-w/o header (mention file extensions and spaces)
+		-monospaced font
+		-line endings
+-Download example files from practicalcomputing.org
+	-open ctd.txt vs. ctd.rtf
+-RegularExpressionsPart1
+	-Lecture slides
+	-CheatSheet.txt
+	-Work through book
+		-SettingUpTextwrangler
+			-species example
+		-Wildcards
+		-CapturingText()
+		-Quantifiers +
+			-species example
+		-Escaping \
+		-Special search terms
+			-tab
+		-Appendices
+		-DebuggingStrategies
+-Homework1

@@ -1,0 +1,34 @@
+Day5
+-HW 5
+-syllabus
+-Jupyter, ipython, interactive prompts
+-Beginning Python Programming
+	-python vs. perl
+	-which python
+	-env
+	-variable names
+	-work through chapter
+-break
+-HW 7,8
+-Decisions and loops
+	-the python interactive prompt
+	-examples
+	-python help
+	-work through chapter
+-Keep working through chapter 9 if you didn't finish in class
+
+
+Group1
+KatieC
+Emma
+Kristina
+
+Group2
+George
+KatieP
+Nichole
+
+Group3
+Aliyah
+Alexis
+Austin

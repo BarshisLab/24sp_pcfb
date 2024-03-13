@@ -1,0 +1,30 @@
+Day7
+-Merging Files
+	-sys.argv demo
+	-os.listdir(), glob.glob()
+	-Group working
+-Break
+-Modules
+	-python.org/library/
+-Debugging strategies lecture
+	-build up working elements (build in test code)
+	-Assumptions
+		-Versions, file saving, EOL characters, input files
+	-Isolate problem
+		-Comment out blocks
+		-End of loop comments
+	-Diagnostic print statements
+		if Debug:
+	-Python interpreter
+	-Demo on HW assignment or two
+	-grep ">" file.txt vs. grep > file.txt
+	-Efficiency/optimization
+		-time.time(), StartTime vs. EndTime
+		-try vs. except
+-Advanced Shell - working together
+	-head tail
+	-cut sort uniq
+	-functions
+	-dict lookup
+	-bash for loops
+		-book approach vs. dan's approach
