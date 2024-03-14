@@ -1,5 +1,6 @@
 Day2:
 -HW questions
+-RegEx2 Lecture slides
 -RegularExpressionPart2
 	-Custom Wildcards
 	-Negations
@@ -13,7 +14,6 @@ Day2:
 		-{}
 	-Putting it all together
 	-fail wisely
--RegEx2 Lecture slides
 -HW2
 -Break
 -BashShellInstallation
