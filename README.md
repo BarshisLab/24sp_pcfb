@@ -56,3 +56,7 @@ Data that is downloaded from public archives is distributed in accordance with
 the license of the source archive. All other original content is distributed 
 under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported 
 License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
+
+## ClassRecordings
+
+[2024-03-11_session-01](https://odu.zoom.us/rec/share/UzZ15E1VSgjCu1mHtmTzQFfA_-nujjPYF9RDy-jqYcvTJOpMu-4vHDvDc01QJcLQ.grMsxUGmWPgeTD1I)
