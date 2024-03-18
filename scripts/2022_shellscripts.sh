@@ -18,6 +18,9 @@ curl "http://files.rcsb.org/view/{1ema,1gfl,1g7k,1xmz}.pdb" -o #1.pdb
 # Windows git bash
 curl "http://files.rcsb.org/view/{1ema,1gfl,1g7k,1xmz}.pdb" -O
 
+updated wunderground address
+https://www.wunderground.com/history/airport/KMIA/1992/08/[01-30]/DailyHistory.html?&format=1
+
 #### examples from chapter 6
 
 # the lines to set your path in ~/.bash_profile or ~/.zshrc

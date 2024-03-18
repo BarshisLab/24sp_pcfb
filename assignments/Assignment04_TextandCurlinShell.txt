@@ -1,5 +1,5 @@
 Task, Using only the command line (can use a texteditor to view file formats but not for anything else) tell me how many different species these protein files are from.
 Steps:
-	1. Download via "curl" the protein files to your sandbox directory (check out pcfb/scripts/2022_shellscripts.sh for the updated search term)
+	1. Download via "curl" the protein files to your sandbox directory (check out 24sp_pcfb/scripts/2022_shellscripts.sh for the updated search term)
 	2. Find out a unique identifier for the line that contains the organism and use grep to isolate those lines from each file in a single command
 	3. save your "history" to a file named LastName_PCfB_Assign4_workflow.txt and email me the file and include the results (number of unique species) in the body of the email.
