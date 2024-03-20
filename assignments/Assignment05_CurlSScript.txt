@@ -1,0 +1,25 @@
+Task:
+	1. Create an automated shell script called ProteinParser.sh that:
+		a. downloads Uniprot protein data into individual files
+# Mac
+curl "https://rest.uniprot.org/uniprotkb/A0A023IWG[0-3].txt" -o A0A023IWG#1.txt
+curl "https://rest.uniprot.org/uniprotkb/A0A023IWE[1-3].txt" -o A0A023IWE#1.txt
+# Windows git bash
+curl "https://rest.uniprot.org/uniprotkb/A0A023IWG[0-3].txt" -O
+curl "https://rest.uniprot.org/uniprotkb/A0A023IWE[1-3].txt" -O
+		b. greps the following lines for each file:
+			1. Organism (hint OS)
+			2. Interpro information
+			3. GO category
+		c. prints those results to the screen
+	2. execute the script and copy/paste the results (not the curl output just the grep outputs) into a .txt file called LastName_Assign5_output.txt
+	3. submit your script and your output to me via email as LastName_Assign5_ProteinParser.sh
+
+Bonus:
+	Think about you might add in some "echo" statements in before/after/between your grep commands to make it really easy to cut/paste the output into a text editor and do a quick regex to get it into a tab-delimited table format
+	Hint: use echo to add:
+		a. the file names
+		b. some unique string to use later in regex to add in line breaks between "rows" (e.g. "XXXX")
+
+Bonus bonus:
+	append the "grep" output in your script to a separate output file
