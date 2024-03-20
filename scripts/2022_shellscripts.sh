@@ -1,25 +1,22 @@
 #### examples from chapter 5
 
 # save multiple files into one text file:
-curl "https://www.uniprot.org/uniprot/A0A023IWG[0-3].txt" > A0A023IWGs.txt
-curl "https://www.uniprot.org/uniprot/A0A023IWE[1-3].txt" > A0A023IWEs.txt
+curl "https://rest.uniprot.org/uniprotkb/A0A023IWG[0-3].txt" > A0A023IWGs.txt
+curl "https://rest.uniprot.org/uniprotkb/A0A023IWE[1-3].txt" > A0A023IWEs.txt
 
 # save each protein's file in its own numbered file 
 # Mac
-curl "https://www.uniprot.org/uniprot/A0A023IWG[0-3].txt" -o A0A023IWG#1.txt
-curl "https://www.uniprot.org/uniprot/A0A023IWE[1-3].txt" -o A0A023IWE#1.txt
+curl "https://rest.uniprot.org/uniprotkb/A0A023IWG[0-3].txt" -o A0A023IWG#1.txt
+curl "https://rest.uniprot.org/uniprotkb/A0A023IWE[1-3].txt" -o A0A023IWE#1.txt
 # Windows git bash
-curl "https://www.uniprot.org/uniprot/A0A023IWG[0-3].txt" -O
-curl "https://www.uniprot.org/uniprot/A0A023IWE[1-3].txt" -O
+curl "https://rest.uniprot.org/uniprotkb/A0A023IWG[0-3].txt" -O
+curl "https://rest.uniprot.org/uniprotkb/A0A023IWE[1-3].txt" -O
 
 # save specific files with original names
 # Mac
 curl "http://files.rcsb.org/view/{1ema,1gfl,1g7k,1xmz}.pdb" -o #1.pdb
 # Windows git bash
 curl "http://files.rcsb.org/view/{1ema,1gfl,1g7k,1xmz}.pdb" -O
-
-updated wunderground address
-https://www.wunderground.com/history/airport/KMIA/1992/08/[01-30]/DailyHistory.html?&format=1
 
 #### examples from chapter 6
 
