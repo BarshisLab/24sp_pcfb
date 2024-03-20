@@ -1,0 +1,192 @@
+Gavia stellata	Red-throated Loon	G_stellata	Ga_st
+Gavia pacifica	Pacific Loon	G_pacifica	Ga_pa
+Gavia immer	Common Loon	G_immer	Ga_im
+Podilymbus podiceps	Pied-billed Grebe	P_podiceps	Po_po
+Podiceps nigricollis	Eared Grebe	P_nigricollis	Po_ni
+Pelecanus erythrorhynchos	American White Pelican	P_erythrorhynchos	Pe_er
+Phalacrocorax auritus	Double-Crested Cormorant	P_auritus	Ph_au
+Ardea herodias	Great Blue Heron	A_herodias	Ar_he
+Butorides striatus	Green Heron	B_striatus	Bu_st
+Nycticorax nycticorax	Black-crowned Night Heron	N_nycticorax	Ny_ny
+Branta canadensis	Canada Goose	B_canadensis	Br_ca
+Anas platyrhynchos	Mallard	A_platyrhynchos	An_pl
+Anas acuta	Northern Pintail	A_acuta	An_ac
+Anas cyanoptera	Cinnamon Teal	A_cyanoptera	An_cy
+Anas crecca	Green-winged Teal	A_crecca	An_cr
+Aix sponsa	Wood Duck	A_sponsa	Ai_sp
+Mergus merganser	Common Merganser	M_merganser	Me_me
+Aquila chrysaetos	Golden Eagle	A_chrysaetos	Aq_ch
+Cathartes aura	Turkey Vulture	C_aura	Ca_au
+Gymnogyps californianus	California Condor	G_californianus	Gy_ca
+Accipiter striatus	Sharp-shinned Hawk	A_striatus	Ac_st
+Accipiter cooperii	Cooper's Hawk	A_cooperii	Ac_co
+Circus cyaneus	Northern Harrier	C_cyaneus	Ci_cy
+Elanus leucurus	White-tailed Kite	E_leucurus	El_le
+Pandion haliaetus	Osprey	P_haliaetus	Pa_ha
+Buteo lineatus	Red-shouldered Hawk	B_lineatus	Bu_li
+Buteo jamaicensis	Red-tailed Hawk	B_jamaicensis	Bu_ja
+Buteo regalis	Ferruginous Hawk	B_regalis	Bu_re
+Buteo swainsoni	Swainson's Hawk	B_swainsoni	Bu_sw
+Falco sparverius	American Kestrel	F_sparverius	Fa_sp
+Falco columbarius	Merlin	F_columbarius	Fa_co
+Falco peregrinus	Peregrine Falcon	F_peregrinus	Fa_pe
+Falco mexicanus	Prairie Falcon	F_mexicanus	Fa_me
+Meleagris gallopavo	Wild Turkey	M_gallopavo	Me_ga
+Callipepla californica	California Quail	C_californica	Ca_ca
+Oreortyx pictus	Mountain Quail	O_pictus	Or_pi
+Phasianus colchicus	Ring-necked Pheasant	P_colchicus	Ph_co
+Porzana carolina	Sora	P_carolina	Po_ca
+Rallus limicola	Virginia Rail	R_limicola	Ra_li
+Fulica americana	American Coot	F_americana	Fu_am
+Charadrius vociferus	Killdeer	C_vociferus	Ch_vo
+Tringa solitaria	Solitary Sandpiper	T_solitaria	Tr_so
+Actitis macularia	Spotted Sandpiper	A_macularia	Ac_ma
+Limnodromus scolopaceus	Long-billed (?) Dowitcher	L_scolopaceus	Li_sc
+Gallinago delicata	Wilson's Snipe	G_delicata	Ga_de
+Phalaropus fulicaria	Red Phalarope	P_fulicaria	Ph_fu
+Phalaropus lobatus	Red-necked Phalarope	P_lobatus	Ph_lo
+Phalaropus tricolor	Wilson's Phalarope	P_tricolor	Ph_tr
+Calidris alpina	Dunlin	C_alpina	Ca_al
+Larus delawarensis	Ring-billed Gull	L_delawarensis	La_de
+Larus philadelphia	Bonaparte's Gull	L_philadelphia	La_ph
+Sterna caspia	Caspian Tern	S_caspia	St_ca
+Columba livia	Rock Pigeon	C_livia	Co_li
+Columba fasciata	Band-tailed Pigeon	C_fasciata	Co_fa
+Zenaida macroura	Mourning Dove	Z_macroura	Ze_ma
+Geococcyx californianus	Greater Roadrunner	G_californianus	Ge_ca
+Tyto alba	Barn Owl	T_alba	Ty_al
+Otus kennicottii	Western Screech-Owl	O_kennicottii	Ot_ke
+Bubo virginianus	Great Horned Owl	B_virginianus	Bu_vi
+Glaucidium gnoma	Northern Pygmy-Owl	G_gnoma	Gl_gn
+Asio otus	Long-eared Owl	A_otus	As_ot
+Aegolius acadicus	Northern Saw-whet Owl	A_acadicus	Ae_ac
+Phalaenoptilus nuttallii	Common Poorwill	P_nuttallii	Ph_nu
+Cypseloides niger	Black Swift	C_niger	Cy_ni
+Chaetura vauxi	Vaux's Swift	C_vauxi	Ch_va
+Aeronautes saxatalis	White-throated Swift	A_saxatalis	Ae_sa
+Archilochus alexandri	Black-chinned Hummingbird	A_alexandri	Ar_al
+Calypte anna	Anna's Hummingbird	C_anna	Ca_an
+Stellula calliope	Calliope Hummingbird	S_calliope	St_ca
+Selasphorus rufus	Rufous Hummingbird	S_rufus	Se_ru
+Selasphorus sasin	Allen's Hummingbird	S_sasin	Se_sa
+Ceryle alcyon	Belted Kingfisher	C_alcyon	Ce_al
+Melanerpes lewis	Lewis's Woodpecker	M_lewis	Me_le
+Melanerpes formicivorus	Acorn Woodpecker	M_formicivorus	Me_fo
+Sphyrapicus nuchalis	Red-naped Sapsucker	S_nuchalis	Sp_nu
+Sphyrapicus ruber	Red-breasted Sapsucker	S_ruber	Sp_ru
+Picoides nuttallii	Nuttall's Woodpecker	P_nuttallii	Pi_nu
+Picoides pubescens	Downy Woodpecker	P_pubescens	Pi_pu
+Picoides villosus	Hairy Woodpecker	P_villosus	Pi_vi
+Colaptes auratus	Northern Flicker	C_auratus	Co_au
+Contopus borealis	Olive-sided Flycatcher	C_borealis	Co_bo
+Contopus sordidulus	Western Wood-Pewee	C_sordidulus	Co_so
+Empidonax traillii	Willow Flycatcher	E_traillii	Em_tr
+Empidonax hammondii	Hammond's Flycatcher	E_hammondii	Em_ha
+Empidonax difficilis	Pacific-slope Flycatcher	E_difficilis	Em_di
+Sayornis nigricans	Black Phoebe	S_nigricans	Sa_ni
+Sayornis saya	Say's Phoebe	S_saya	Sa_sa
+Myiarchus cinerascens	Ash-throated Flycatcher	M_cinerascens	My_ci
+Tyrannus verticalis	Western Kingbird	T_verticalis	Ty_ve
+Tyrannus vociferans	Cassin's Kingbird	T_vociferans	Ty_vo
+Lanius ludovicianus	Loggerhead Shrike	L_ludovicianus	La_lu
+Vireo casinii	Cassin's Vireo	V_casinii	Vi_ca
+Vireo huttoni	Hutton's Vireo	V_huttoni	Vi_hu
+Vireo gilvus	Warbling Vireo	V_gilvus	Vi_gi
+Cyanocitta stelleri	Steller's Jay	C_stelleri	Cy_st
+Aphelocoma  californica	Western Scrub Jay	A_californica	Ap_ca
+Nucifraga columbiana	Clark's Nutcracker	N_columbiana	Nu_co
+Pica nuttalli	Yellow-billed Magpie	P_nuttalli	Pi_nu
+Corvus brachyrhynchos	American Crow	C_brachyrhynchos	Co_br
+Corvus corax	Common Raven	C_corax	Co_co
+Eremophila alpestris	Horned Lark	E_alpestris	Er_al
+Progne subis	Purple Martin	P_subis	Pr_su
+Tachycineta bicolor	Tree Swallow	T_bicolor	Ta_bi
+Tachycineta thalassina	Violet-green Swallow	T_thalassina	Ta_th
+Stelgidopteryx serripennis	Northern Rough-winged Swallow	S_serripennis	St_se
+Petrochelidon pyrrhonota	Cliff Swallow	P_pyrrhonota	Pe_py
+Hirundo rustica	Barn Swallow	H_rustica	Hi_ru
+Poecile gambeli	 Mountain Chickadee	P_gambeli	Po_ga
+Poecile rufescens	 Chestnut-backed Chickadee	P_rufescens	Po_ru
+Baeolophus inornatus	Oak Titmouse	B_inornatus	Ba_in
+Psaltriparus minimus	Bushtit	P_minimus	Ps_mi
+Sitta canadensis	Red-breasted Nuthatch	S_canadensis	Si_ca
+Sitta carolinensis	White-breasted Nuthatch	S_carolinensis	Si_ca
+Certhia americana	Brown Creeper	C_americana	Ce_am
+Thryomanes bewickii	Bewick's Wren	T_bewickii	Th_be
+Troglodytes aedon	House Wren	T_aedon	Tr_ae
+Troglodytes troglodytes	Winter Wren	T_troglodytes	Tr_tr
+Salpinctes obsoletus	Rock Wren	S_obsoletus	Sa_ob
+Catherpes mexicanus	Canyon Wren	C_mexicanus	Ca_me
+Cinclus mexicanus	American Dipper	C_mexicanus	Ci_me
+Chamaea fasciata	Wrentit	C_fasciata	Ch_fa
+Regulus satrapa	Golden-crowned Kinglet	R_satrapa	Re_sa
+Regulus calendula	Ruby-crowned Kinglet	R_calendula	Re_ca
+Polioptila caerulea	Blue-gray Gnatcatcher	P_caerulea	Po_ca
+Sialia mexicana	Western Bluebird	S_mexicana	Si_me
+Myadestes townsendi	Townsend's Solitaire	M_townsendi	My_to
+Ixoreus naevius	Varied Thrush	I_naevius	Ix_na
+Turdus migratorius	American Robin	T_migratorius	Tu_mi
+Catharus ustulatus	Swainson's Thrush	C_ustulatus	Ca_us
+Catharus guttatus	Hermit Thrush	C_guttatus	Ca_gu
+Mimus polyglottos	Northern Mockingbird	M_polyglottos	Mi_po
+Toxostoma rufum	Brown Thrasher	T_rufum	To_ru
+Toxostoma redivivum	California Thrasher	T_redivivum	To_re
+Sturnus vulgaris	European Starling	S_vulgaris	St_vu
+Anthus rubescens	American Pipit	A_rubescens	An_ru
+Phainopepla nitens	Phainopepla	P_nitens	Ph_ni
+Bombycilla cedrorum	Cedar Waxwing	B_cedrorum	Bo_ce
+Vermivora celata	Orange-crowned Warbler	V_celata	Ve_ce
+Vermivora ruficapilla	Nashville Warbler	V_ruficapilla	Ve_ru
+Parula americana	Northern Parula	P_americana	Pa_am
+Dendroica petechia	Yellow Warbler	D_petechia	De_pe
+Dendroica coronata	Yellow-rumped Warbler	D_coronata	De_co
+Dendroica nigrescens	Black-throated Gray Warbler	D_nigrescens	De_ni
+Dendroica townsendi	Townsend's Warbler	D_townsendi	De_to
+Dendroica occidentalis	Hermit Warbler	D_occidentalis	De_oc
+Dendroica palmarum	Palm Warbler	D_palmarum	De_pa
+Mniotilta varia	Black-and-white Warbler	M_varia	Mn_va
+Oporornis tolmiei	Macgillivray's Warbler	O_tolmiei	Op_to
+Geothlypis trichas	Common Yellowthroat	G_trichas	Ge_tr
+Wilsonia pusilla	Wilson's Warbler	W_pusilla	Wi_pu
+Icteria virens	Yellow-breasted Chat	I_virens	Ic_vi
+Piranga ludoviciana	Western Tanager	P_ludoviciana	Pi_lu
+Piranga rubra	Summer Tanager	P_rubra	Pi_ru
+Pheucticus melanocephalus	Black-headed Grosbeak	P_melanocephalus	Ph_me
+Guiraca caerulea	Blue Grosbeak	G_caerulea	Gu_ca
+Passerina amoena	Lazuli Bunting	P_amoena	Pa_am
+Pipilo chlorurus	Green-tailed Towhee	P_chlorurus	Pi_ch
+Pipilo maculatus	Spotted Towhee	P_maculatus	Pi_ma
+Pipilo crissalis	California Towhee	P_crissalis	Pi_cr
+Aimophila ruficeps	Rufous-crowned Sparrow	A_ruficeps	Ai_ru
+Spizella passerina	Chipping Sparrow	S_passerina	Sp_pa
+Spizella atrogularis	Black-chinned Sparrow	S_atrogularis	Sp_at
+Pooecetes gramineus	Vesper Sparrow	P_gramineus	Po_gr
+Chondestes grammacus	Lark Sparrow	C_grammacus	Ch_gr
+Amphispiza bilineata	Black-throated Sparrow	A_bilineata	Am_bi
+Amphispiza belli	Sage Sparrow	A_belli	Am_be
+Passerculus sandwichensis	Savannah Sparrow	P_sandwichensis	Pa_sa
+Junco hyemalis	Dark-eyed Junco	J_hyemalis	Ju_hy
+Zonotrichia atricapilla	Golden-crowned Sparrow	Z_atricapilla	Zo_at
+Zonotrichia albicollis	White-throated Sparrow	Z_albicollis	Zo_al
+Zonotrichia leucophrys	White-crowned Sparrow	Z_leucophrys	Zo_le
+Zonotrichia querula	Harris's Sparrow	Z_querula	Zo_qu
+Ammodramus savannarum	Grasshopper Sparrow	A_savannarum	Am_sa
+Melospiza lincolnii	Lincoln's Sparrow	M_lincolnii	Me_li
+Melospiza melodia	Song Sparrow	M_melodia	Me_me
+Passerella iliaca	Fox Sparrow	P_iliaca	Pa_il
+Calcarius lapponicus	Lapland Longspur	C_lapponicus	Ca_la
+Sturnella neglecta	Western Meadowlark	S_neglecta	St_ne
+Molothrus ater	Brown-headed Cowbird	M_ater	Mo_at
+Agelaius phoeniceus	Red-winged Blackbird	A_phoeniceus	Ag_ph
+Agelaius tricolor	Tricolored Blackbird	A_tricolor	Ag_tr
+Euphagus cyanocephalus	Brewer's Blackbird	E_cyanocephalus	Eu_cy
+Icterus bullockii	Bullock's Oriole	I_bullockii	Ic_bu
+Icterus cucullatus	Hooded Oriole	I_cucullatus	Ic_cu
+Icterus parisorum	Scott's Oriole	I_parisorum	Ic_pa
+Carpodacus purpureus	Purple Finch	C_purpureus	Ca_pu
+Carpodacus mexicanus	House Finch	C_mexicanus	Ca_me
+Carduelis pinus	Pine Siskin	C_pinus	Ca_pi
+Carduelis lawrenci	Lawrence's Goldfinch	C_lawrenci	Ca_la
+Carduelis psaltria	Lesser Goldfinch	C_psaltria	Ca_ps
+Carduelis tristis	American Goldfinch	C_tristis	Ca_tr
+Passer domesticus	House Sparrow	P_domesticus	Pa_do
