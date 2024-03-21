@@ -4,7 +4,7 @@ This repository contains the source code, datasets, and documentation for
 Dan Barshis' Practical Computing for Biologists course (Biology 701/801) at Old Dominion University, as 
 taught in the Spring of 2024.
 
-See the [syllabus](https://bitbucket.org/dbarshis/24sp_pcfb/src/main/syllabus/Biol701-801_PCB_Spring_2024_Barshis.pdf) 
+See the [syllabus](https://github.com/BarshisLab/24sp_pcfb/blob/main/syllabus/Biol701-801_PCB_Spring_2024_Barshis.pdf) 
 for additional information.
 
 The book for the class is:
