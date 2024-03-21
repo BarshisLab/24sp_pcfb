@@ -59,4 +59,6 @@ License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
 
 ## ClassRecordings
 
-[2024-03-11_session-01](https://odu.zoom.us/rec/share/UzZ15E1VSgjCu1mHtmTzQFfA_-nujjPYF9RDy-jqYcvTJOpMu-4vHDvDc01QJcLQ.grMsxUGmWPgeTD1I)
+  * [2024-03-11_session-01](https://odu.zoom.us/rec/share/UzZ15E1VSgjCu1mHtmTzQFfA_-nujjPYF9RDy-jqYcvTJOpMu-4vHDvDc01QJcLQ.grMsxUGmWPgeTD1I)
+  * [2024-03-18_session-03](https://odu.zoom.us/rec/share/dydHPYIE8nBJhLK6wIjXlwPAl0iyZQGEwKygqTvj2zu3dTSveGIQy5UrE1mzxGg.8-6Kj9GEf-bsDu_u)
+  * [2024-03-20_session-04](https://odu.zoom.us/rec/share/Ws3vACzfThcv8V_U7iu-Ub3vzi3zYqiqMxBKmDTUUP8JQGW2qw7PXFLmU7vNPOC7.J800JNj4LvG64NBw)
