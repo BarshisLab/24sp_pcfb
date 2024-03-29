@@ -63,3 +63,4 @@ License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
   * [2024-03-18_session-03](https://odu.zoom.us/rec/share/dydHPYIE8nBJhLK6wIjXlwPAl0iyZQGEwKygqTvj2zu3dTSveGIQy5UrE1mzxGg.8-6Kj9GEf-bsDu_u)
   * [2024-03-20_session-04](https://odu.zoom.us/rec/share/Ws3vACzfThcv8V_U7iu-Ub3vzi3zYqiqMxBKmDTUUP8JQGW2qw7PXFLmU7vNPOC7.J800JNj4LvG64NBw)
   * [2024-03-25_session-05](https://odu.zoom.us/rec/share/2geqRwUwmLwEzVQEZJ1A2a0he3KVUgvnyqwdoujCmXkRJuSHxq6PIFZXNM__Acvr.L3CCaSKmWJH-atGX)
+  * [2024-03-27_session-06](https://odu.zoom.us/rec/share/2YhXDBqd7UoRdrgLchZL1SjWCoKeONen951gJq1zBewRDg5cX5zoDHZKnHxTjRqK.xQvgwWeQVWN1xsV1)
