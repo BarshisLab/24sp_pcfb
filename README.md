@@ -22,7 +22,7 @@ commands:
 
 ## Hackathons
 
-- [Hackathon1_Padlet] (https://padlet.com/22t8b5f3/hackathon1_ideas-zq4mrr7rg03ng3e4)
+- [Hackathon1_Padlet](https://padlet.com/22t8b5f3/hackathon1_ideas-zq4mrr7rg03ng3e4)
 
 ## Assignments
 
@@ -68,3 +68,4 @@ License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
   * [2024-03-20_session-04](https://odu.zoom.us/rec/share/Ws3vACzfThcv8V_U7iu-Ub3vzi3zYqiqMxBKmDTUUP8JQGW2qw7PXFLmU7vNPOC7.J800JNj4LvG64NBw)
   * [2024-03-25_session-05](https://odu.zoom.us/rec/share/2geqRwUwmLwEzVQEZJ1A2a0he3KVUgvnyqwdoujCmXkRJuSHxq6PIFZXNM__Acvr.L3CCaSKmWJH-atGX)
   * [2024-03-27_session-06](https://odu.zoom.us/rec/share/2YhXDBqd7UoRdrgLchZL1SjWCoKeONen951gJq1zBewRDg5cX5zoDHZKnHxTjRqK.xQvgwWeQVWN1xsV1)
+  * [2024-04-01_session-07](https://odu.zoom.us/rec/share/NXUKOfNGwfX6zf4HqYKsZmzOzN9RpACsjNfnKK4SkV7O4T7m7-idjBU9jitztTjg.O5lD4l6VpfTihXlV)
