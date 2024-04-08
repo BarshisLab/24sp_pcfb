@@ -23,6 +23,7 @@ commands:
 ## Hackathons
 
 - [Hackathon1_Padlet](https://padlet.com/22t8b5f3/hackathon1_ideas-zq4mrr7rg03ng3e4)
+- [Hackathon2_Padlet](https://padlet.com/22t8b5f3/hackathon2_dnacalcs-fyolgwm0n3oghixv)
 
 ## Assignments
 
